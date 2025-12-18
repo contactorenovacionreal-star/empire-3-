@@ -1,0 +1,9 @@
+{
+  "name": "3 EBook Empire 3 AI - Personalized Tier 1-2-3 Platform",
+  "description": "A high-end platform for creating and managing personalized AI eBooks. Features automated niche forms, chapter-by-chapter generation, marketing suites, and landing page creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
